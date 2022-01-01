@@ -10,7 +10,6 @@ export default function Main () {
 
   return (
     <MainContainer>
-      <Header />
       <Footer />
     </MainContainer>
   )
